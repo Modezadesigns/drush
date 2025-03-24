@@ -5,7 +5,27 @@ Drush is a command line shell and Unix scripting interface for Drupal. Please se
 Support
 -----------
 * See www.drush.org for documentation.
-* Post support requests to [Drupal Answers](http://drupal.stackexchange.com/questions/tagged/drush). Tag questions with 'drush'.
+* Post support requests to [Drupal Answers]
+*
+* (http://drupal.stackexchange.com/questions/tagged/drush). Tag questions with 'drush'.
 * Report bugs and request features in the [GitHub Drush Issue Queue](https://github.com/drush-ops/drush/issues).
 * Report security vulnerabilities privately, [in GitHub](https://github.com/drush-ops/drush/security/advisories).
 * Use pull requests (PRs) to contribute to Drush. 
+Shia sword in wires wand
+casts 
+transforms air object appears from thin air once said drush stroke of a slice
+appears miracle done by NIMA REZAZADEH
+of my wand in 473 Gilmour st Ottawa
+473 Gilmour St
+Ottawa ON K1R 5L3
+Canada area Code
+ⵏⵉⵎⴰ Nima Black Book of Magic and Miracles 
+![image](https://github.com/user-attachments/assets/19accaa6-459d-4455-b5e2-ab676ccebec0)
+
+
+
+
+![image](https://github.com/user-attachments/assets/6176be7d-b094-48d3-bc9a-e912e38a5d45)
+
+
+![image](https://github.com/user-attachments/assets/ebb0f1ae-0590-40fc-b09f-b6b62e1c6a8a)
