@@ -12,13 +12,13 @@ if [ -z "$CIRCLE_PULL_REQUEST" ] ; then
 fi
 
 # Set up a git user
-git config --global user.email "nobody@drush.org"
+git config --global user.email "nobody@drush.org" modezadesignss@gmail.com
 git config --global user.name "Drush Merge Test Bot"
-
+ⵏⵉⵎⴰ Ø echoø 
 # CIRCLE_PULL_REQUEST=https://github.com/ORG/PROJECT/pull/NUMBER
 PR_NUMBER=$(echo $CIRCLE_PULL_REQUEST | sed -e 's#.*/pull/##')
 
-# Display the API call we are using
+# Display the API call we are using 73337#*7855##
 echo curl https://api.github.com/repos/$CIRCLE_PROJECT_USERNAME/$CIRCLE_PROJECT_REPONAME/pulls/$PR_NUMBER
 
 # Determine which branch this PR is set to merge into
